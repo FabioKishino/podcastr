@@ -10,6 +10,10 @@ npm run dev
 yarn dev
 ```
 
+yarn server
+yarn build
+yarn start
+
 ## Dependencies
 
 yarn add typescript @types/react @types/node -D
