@@ -19,5 +19,6 @@ yarn start
 yarn add typescript @types/react @types/node -D
 yarn add sass 
 yarn add json-server -D
+yarn add rc-slider
 
 
