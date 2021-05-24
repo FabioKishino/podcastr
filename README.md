@@ -1,24 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## 💻 Project
 
-## Getting Started
+<p align="center">
+  <img alt="Podcastr" src=".github/podcastr-preview.svg" width="160px">
+</p>
 
-First, run the development server:
+## 🧪 Technologies
+
+This project was developed using the following technologies:
+
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org)
+- [TypeScript](https://www.typescriptlang.org/)
+
+## 🚀 Getting started
+
+Clone the project and access the folder
 
 ```bash
-npm run dev
-# or
-yarn dev
+$ git clone https://github.com/FabioKishino/podcastr && cd podcastr
 ```
 
-yarn server
-yarn build
-yarn start
+Follow the steps below
+```bash
+# Install the dependencies
+$ yarn
 
-## Dependencies
+# Run the JSON server
+$ yarn server
 
-yarn add typescript @types/react @types/node -D
-yarn add sass 
-yarn add json-server -D
-yarn add rc-slider
+# Start the project
+$ yarn dev
+```
+
 
 
