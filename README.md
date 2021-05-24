@@ -1,7 +1,7 @@
 ## 💻 Project
 
 <p align="center">
-  <img alt="Podcastr" src=".github/podcastr-preview.png" width="720px">
+  <img alt="Podcastr" src=".github/podcastr-preview.png" width="1080px">
 </p>
 
 ## 🧪 Technologies
